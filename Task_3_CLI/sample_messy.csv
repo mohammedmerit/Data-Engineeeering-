@@ -1,0 +1,8 @@
+User ID,User Name,Email Address,Age,Home City,Signup Date,Notes
+1,Alice,alice@email.com,28,Chennai,2024-01-15,
+2,Bob,,34,Mumbai,2024-02-20,
+3,,carol@email.com,,Delhi,2024-03-10,
+4,David,david@email.com,45,Bangalore,2024-01-30,
+2,Bob,,34,Mumbai,2024-02-20,
+5,Eve,eve@email.com,31,Chennai,2024-04-05,
+6,Frank,frank@email.com,29,,2024-05-01,

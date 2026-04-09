@@ -1,0 +1,8 @@
+user_id,user_name,email,age,city
+1,Alice,alice@email.com,28,Chennai
+2,Bob,,34,Mumbai
+3,,carol@email.com,,Delhi
+4,David,david@email.com,45,Bangalore
+2,Bob,,34,Mumbai
+5,Eve,eve@email.com,31,Chennai
+6,Frank,frank@email.com,abc,Pune

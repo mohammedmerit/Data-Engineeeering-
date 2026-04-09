@@ -1,0 +1,6 @@
+user_id,user_name,email,age,city,signup_date
+1,Alice Johnson,alice@email.com,28,Chennai,2024-01-15
+2,Bob Smith,bob@email.com,34,Mumbai,2024-02-20
+3,Carol White,carol@email.com,22,Delhi,2024-03-10
+4,David Brown,david@email.com,45,Bangalore,2024-01-30
+5,Eve Davis,eve@email.com,31,Chennai,2024-04-05

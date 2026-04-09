@@ -1,0 +1,6 @@
+[
+  {"order_id": 101, "product": "Laptop", "quantity": 1, "price": 75000.0, "status": "delivered"},
+  {"order_id": 102, "product": "Mouse", "quantity": 3, "price": 899.0, "status": "pending"},
+  {"order_id": 103, "product": "Keyboard", "quantity": 2, "price": 1500.0, "status": "shipped"},
+  {"order_id": 104, "product": "Monitor", "quantity": 1, "price": 22000.0, "status": "delivered"}
+]
