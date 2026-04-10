@@ -22,7 +22,7 @@ HELP_TEXT = """
       - Duplicate rows
       - Inconsistent data types
 
-  transform <input> <output>  
+  transform <file1> [file2 ...]
       Clean and transform a file, save to output.
 
   help
@@ -92,7 +92,7 @@ def repl():
             continue
 
         if raw_input.lower() == "exit":
-            print("[INFO] Exiting noobdatatool. Bye!")
+            print("[INFO] Exiting noobdatatool. Bye-boi!")
             break
 
         if raw_input.lower() == "help":
