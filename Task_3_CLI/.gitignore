@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+.env
 sample_cleaned.csv
 sample_cleaned.json
 sample_messy_cleaned.csv
